@@ -1,6 +1,6 @@
 # 3DOF CNC Surgical Robot: Project Notes and Research
 
-##Braintstorming and Research
+## Braintstorming and Research
 
 ## 1. Project Summary
 
